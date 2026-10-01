@@ -1,1 +1,1 @@
-# checkm8-a5-for-pico-2
+# checkm8-a5-for-pico-2 it is NOT fork of original checkmate-a5 it is version for raspberry pi pico 2 it is wroten in circuit python what you need: mu.code, circuit python. upload the source code in mu.code press start and you need to wait some time until it will wrote "iPhone теперь в pwned dfu!" it is meaning exploit is success
